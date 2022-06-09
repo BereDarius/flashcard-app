@@ -1,0 +1,16 @@
+.form-signup {
+    width: 50%;
+    transform: translateY(13%);
+}
+
+.toast-position {
+    position: absolute;
+    top: -4.5rem;
+    right: -14rem;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
